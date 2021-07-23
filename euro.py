@@ -1,8 +1,6 @@
 import streamlit as st
-import base64
 import numpy as np
 import pandas as pd
-from matplotlib import pyplot as plt
 # st.set_page_config(layout="wide")
 st.title('EURO 2020 ANALYSIS')# st.set_page_config(layout="wide")
 st.markdown("""
