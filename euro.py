@@ -1,6 +1,6 @@
 import pandas as pd
 from matplotlib import pyplot as plt
-# st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")
 st.title('EURO 2020 ANALYSIS')# st.set_page_config(layout="wide")
 st.markdown("""
 This app is developed by Theevagaraju to perform an analysis on EURO 2020
